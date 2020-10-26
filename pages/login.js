@@ -5,7 +5,7 @@ const IndexPage = ()=>{
     <html style={{background:"rgba(81, 233,225, 0.678)",width:"100%",height:"100%"}}>
     <div>
         <header>
-            <h1 style={{fontFamily:"algerian",textAlign:"center",fontSize:"50px"}}>Iniciar Sesion</h1>
+            <h1 style={{fontFamily:"algerian",textAlign:"center",fontSize:"50px"}}>Log In</h1>
         </header>
         <div style={{background:"rgba(1, 23, 2, 0.678)",marginLeft:"420px", width:"45%",  paddingTop:"30px",paddingBottom:"30px"}}>
             <form style={{textAlign:"center",fontSize:"30px"}}>
@@ -19,7 +19,7 @@ const IndexPage = ()=>{
                     </div>  
                     <button type="btn" style={{fontSize:"30px"}}>Iniciar Sesion</button>
             </form>
-        </div>
+        </div>  
     </div>
     </html>
     )
